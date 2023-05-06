@@ -74,9 +74,10 @@ python fill_anything.py \
     --sam_model_type "vit_l" 
 ```
 ### Demo
-![](https://ai-studio-static-online.cdn.bcebos.com/992293257ff04ea792f7123fb292ed9e897ca76fe2b64153b1bbddf93029de90)
+<img src="./work/Figs/fill_anything_img.png" width="100%">
 
 ## <span id="Replace Anything">📌 Replace Anything</span>
+
 ```
 cd work
 python replace_anything.py \
@@ -87,8 +88,10 @@ python replace_anything.py \
     --output_dir  /home/aistudio/work/results \
     --sam_model_type "vit_l" \
 ```
+
 ### Demo
-![](https://ai-studio-static-online.cdn.bcebos.com/a8c4df095a6143f9bec36087e2ddb68f34b35686ca464f52a6b665d6c4ff0a36)
+
+<img src="./work/Figs/replace_anything_img.png" width="100%">
 
 ## Acknowledgments
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
