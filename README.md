@@ -55,11 +55,10 @@ python remove_anything_video.py \
     --predict_config /home/aistudio/work/lamn/config/default.yml
 ```
 ### Demo
-![](https://ai-studio-static-online.cdn.bcebos.com/63433ba210394e31a9ac5150136aa279c50c6fc678384d24bc320bae3ed90d4d)
-![](https://ai-studio-static-online.cdn.bcebos.com/b0e34a2afc6247b987a214f554726babfd3856ca3b834dcbb126a84f3eecb0c0)
-![](https://ai-studio-static-online.cdn.bcebos.com/f83cdf11c1fc41898d94dd1c5208bdee71ca35fffc1c4fa9a867d642152a7404)
-![](https://ai-studio-static-online.cdn.bcebos.com/d90cfffc711049b698273b56c1e4215ef2653594566c4be996ddd5387e5ff290)
-
+<img src="./work/Figs/remove_anything_video.gif" width="100%">
+<img src="./work/Figs/remove_anything_video1.gif" width="100%">
+<img src="./work/Figs/remove_anything_video2.gif" width="100%">
+<img src="./work/Figs/remove_anything_video3.gif" width="100%">
 
 ## <span id="Fill Anything">📌 Fill Anything</span>
 ```
