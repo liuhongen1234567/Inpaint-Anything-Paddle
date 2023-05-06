@@ -39,8 +39,7 @@ python remove_anything.py \
 ```
 
 ### Demo
-
-![](https://ai-studio-static-online.cdn.bcebos.com/d89082c4f58f4cf090698917f86cbf8ddd80e10d3d28413684fdb86ea38d47aa)
+<img src="./work/Figs/remove_anything_img.png" width="100%">
 
 ## <span id="remove-anything-video">📌 Remove Angthing Video</span>
 ```
